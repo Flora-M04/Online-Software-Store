@@ -55,7 +55,7 @@
 ### Setup
 
 ```bash
-git clone https://github.com/Ayush03K/SadleShop.git
+git clone https://github.com/Flora-M04/Online-Software-Store.git
 cd SadleShop
 npm install
 npx expo start
